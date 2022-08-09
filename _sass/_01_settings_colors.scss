@@ -27,11 +27,11 @@ $body-bg            : #fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1               : #575757; // dark turquoise
-$ci-2               : #E4E4E4; // turquoise
+$ci-2               : #111; // turquoise
 $ci-3               : #E4E4E4; // yellow
 $ci-4               : #E4E4E4; // orange
-$ci-5               : #575757; // red
-$ci-6               : #575757; // green
+$ci-5               : #111; // red
+$ci-6               : #E4E4E4; // green
 
 
 
@@ -78,10 +78,10 @@ $topbar-bg          : $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #E4E4E4;
+$topbar-link-color  : #000;
 $topbar-link-color-hover: #E4E4E4;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color-active: #E4E4E4;
+$topbar-link-color-active-hover: #E4E4E4;
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
