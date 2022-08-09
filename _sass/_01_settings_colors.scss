@@ -26,8 +26,8 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #111; // dark turquoise
-$ci-2               : #111; // turquoise
+$ci-1               : #E4E4E4; // dark turquoise
+$ci-2               : #575757; // turquoise
 $ci-3               : #E4E4E4; // yellow
 $ci-4               : #E4E4E4; // orange
 $ci-5               : #111; // red
@@ -72,7 +72,7 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $body-bg;
+$topbar-bg-color    : $ci-5;
 $topbar-bg          : $topbar-bg-color;
 
 
