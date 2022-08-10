@@ -17,7 +17,7 @@ PYNQ can be used with Zynq, Zynq UltraScale+, Zynq RFSoC, Alveo accelerator boar
 breadcrumb: false
 categories:
     - design
-permalink: "/aboutpynq/"
+permalink: "/Pynq-io/aboutpynq.html"
 header:
     image_fullwidth: "White.png"
 image:
