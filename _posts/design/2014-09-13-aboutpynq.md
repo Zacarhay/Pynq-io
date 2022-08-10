@@ -21,7 +21,7 @@ permalink: "/aboutpynq/"
 header:
     image_fullwidth: "White.png"
 image:
-    thumb: "White.png"
+    thumb: "logo.png"
 ---
 
 <!--more-->
