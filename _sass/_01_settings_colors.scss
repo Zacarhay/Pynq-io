@@ -27,7 +27,7 @@ $body-bg            : #fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1               : #111; // dark turquoise
-$ci-2               : #fdfdfd; // turquoise
+$ci-2               : #E4E4E4; // turquoise
 $ci-3               : #E4E4E4; // yellow
 $ci-4               : #E4E4E4; // orange
 $ci-5               : #111; // red
@@ -92,15 +92,15 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-color: #fdfdfd;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
+$topbar-menu-icon-color-toggled: $ci-2;
+$topbar-menu-link-color: #fdfdfd;
 $topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-icon-color-toggled: $ci-4;
 
 
 
