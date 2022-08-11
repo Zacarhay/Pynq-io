@@ -76,24 +76,24 @@ $topbar-bg-color    : $body-bg;
 $topbar-bg          : $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: #000;
+$topbar-dropdown-toggle-color: red;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #fff; //changes the colour of the words when hovered over
-$topbar-link-color-active: #fff;
-$topbar-link-color-active-hover: #979797;
+$topbar-link-color  : yellow;
+$topbar-link-color-hover: blue; //changes the colour of the words when hovered over
+$topbar-link-color-active: green;
+$topbar-link-color-active-hover: purple;
 
-$topbar-dropdown-label-color: #E4E4E4;
-$topbar-dropdown-link-bg-hover: #000;
+$topbar-dropdown-label-color: white;
+$topbar-dropdown-link-bg-hover: black;
 
-$topbar-link-bg-active: #000; // Active Navigation Link
-$topbar-link-bg-hover: #000;
-$topbar-link-bg-active-hover: #E4E4E4;
+$topbar-link-bg-active: orange; // Active Navigation Link
+$topbar-link-bg-hover: teal;
+$topbar-link-bg-active-hover: pink;
 
 
-$topbar-dropdown-bg: #000; // Background Mobile Navigation
-$topbar-dropdown-link-color: #E4E4E4;
-$topbar-dropdown-link-bg: #000;
+$topbar-dropdown-bg: #dd0e9f; // Background Mobile Navigation
+$topbar-dropdown-link-color: #2bff00;
+$topbar-dropdown-link-bg: rgb(82, 82, 82);
 
 $topbar-menu-link-color-toggled: #000;
 $topbar-menu-icon-color-toggled: #000;
