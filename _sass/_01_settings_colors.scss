@@ -78,21 +78,21 @@ $topbar-bg          : $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: red;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #fff; //changes the colour of the words when hovered over
-$topbar-link-color-active: #fff;
+$topbar-link-color  : yellow;
+$topbar-link-color-hover: blue; //changes the colour of the words when hovered over
+$topbar-link-color-active: green;
 $topbar-link-color-active-hover: purple;
 
 $topbar-dropdown-label-color: white;
 $topbar-dropdown-link-bg-hover: black;
 
-$topbar-link-bg-active: #000; // Active Navigation Link
-$topbar-link-bg-hover: #000;
+$topbar-link-bg-active: orange; // Active Navigation Link
+$topbar-link-bg-hover: teal;
 $topbar-link-bg-active-hover: rgb(131, 46, 61);
 
 
-$topbar-dropdown-bg: #fff; // Background Mobile Navigation
-$topbar-dropdown-link-color: #fff;
+$topbar-dropdown-bg: #dd0e9f; // Background Mobile Navigation
+$topbar-dropdown-link-color: #2bff00;
 $topbar-dropdown-link-bg: rgb(82, 82, 82);
 
 $topbar-menu-link-color-toggled: #000;
