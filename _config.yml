@@ -270,5 +270,3 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
-
-theme: feeling-responsive
